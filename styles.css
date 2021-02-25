@@ -1,0 +1,73 @@
+#name1{
+    font-family: monspace;
+    color: #00EAC3;
+}
+h3{
+    text-align: left;
+}
+body{
+    background-color: #2D2E2E;
+    text-align: center;
+    color:#00AEFF;
+}
+.navbar {
+    font-weight: bold;
+    height: 76px;
+    align-items: center;
+    background-image: url(background.jpg);
+}
+.navbar ul li u {
+    margin-left: 10px;
+    margin-top: -50px;
+    color: #00AEFFF;
+}
+.navbar ul li a {
+    padding-bottom:10px;
+    margin-left: 10px;
+    color: #00AEFF;
+}
+a {
+    color: #00AEFF;
+}
+a:hover{
+    color: #00BDFF;
+}
+.navbar ul li a:hover {
+    font-size:25px;
+    transition: .3s;
+    margin-bottom: -25px;
+}
+.carshow img {
+    align-items: center;
+    height: 100px;
+}
+.carshow img:hover {
+    height:120px;
+    transition:.269s;
+    margin-top:-35px;
+}
+.carshow th:hover {
+    padding: 35px;
+    transition: .269s;
+    margin-top:-35px;
+}
+.carshow {
+    margin: auto;
+}
+.line {
+    background-color:RGB(41, 87, 109);
+    height:10px;
+    width: 100%;
+}
+.faves {
+    margin: auto;
+}
+.carshow th {
+    padding: 30px;
+}
+.faves th {
+    padding: 15px;
+}
+.RED {
+    color:Red;
+}
